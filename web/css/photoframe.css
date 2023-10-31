@@ -55,7 +55,7 @@ body,html {
 }
 
 .photoframe-calendar-saturday {
-    color: cyan;
+    color: #c7000a;
 }
 
 .photoframe-calendar-holiday-others {
@@ -63,9 +63,9 @@ body,html {
 }
 
 .photoframe-calendar-weekday-others {
-    color: gray;
+    color: #41CBE0;
 }
 
 .photoframe-calendar-saturday-others {
-    color: darkcyan;
+    color: #c7000a;
 }
