@@ -68,7 +68,8 @@
         <div id="photoframe-clock-bottom" class="row d-none no-gutters bg-light">
             <div class="col-4">
                 <div class="d-flex h-100 flex-column">
-                    <img class="photoframe-logo" src="static/img/TasakiLab_Logo.svg"/>
+                    <!-- <img class="photoframe-logo" src="static/img/TasakiLab_Logo.svg"/> -->
+                    <img class="photoframe-logo" src="static/img/baby_alpha_crop.png"/>
                     <div class="photoframe-clock photoframe-clock-row2 photoframe-clock-time mt-auto mb-auto"></div>
                 </div>
             </div>
