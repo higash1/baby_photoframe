@@ -4,9 +4,9 @@
     <title>Photoframe</title>
     <link rel="shortcut icon" href="static/img/photoframe.ico">
     <link rel="apple-touch-icon" href="static/img/photoframe-icon.png">
-    <link rel="stylesheet" href="static/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="static/css/slick.css"/>
-    <link rel="stylesheet" href="static/css/photoframe.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/slick.css"/>
+    <link rel="stylesheet" href="css/photoframe.css">
     <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
@@ -81,8 +81,8 @@
     </div>
 </body>
 
-<script type="text/javascript" src="static/js/jquery.min.js"></script>
-<script src="static/js/popper.min.js"></script>
-<script src="static/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="static/js/slick.min.js"></script>
-<script type="text/javascript" src="static/js/photoframe.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/slick.min.js"></script>
+<script type="text/javascript" src="js/photoframe.js"></script>
