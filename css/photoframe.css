@@ -1,0 +1,71 @@
+body,html {
+    overflow: hidden;
+    background-color: black;
+    position: relative;
+    height: 100%;
+}
+
+.photoframe-slide {
+    object-fit: contain;
+}
+
+.slick-track {
+    align-items: center;
+    display: flex;
+    max-height: 100vh;
+}
+
+.photoframe-clock {
+    text-align: center;
+    color: white;
+}
+
+.photoframe-clock-row1 {
+    font-size: 3vw;
+}
+
+.photoframe-clock-row2 {
+    /* font-size: 7vw; */
+    font-size: 12vw;
+}
+
+.photoframe-logo {
+    padding: 5%;
+    width: 100%;
+}
+
+.table th, .table td {
+    padding: 0.25rem;
+}
+
+.photoframe-calendar {
+    font-size: 2vw;
+}
+
+.photoframe-calendar-ym {
+    caption-side: top;
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bold;
+    color: white;
+}
+
+.photoframe-calendar-holiday {
+    color: #c7000a;
+}
+
+.photoframe-calendar-saturday {
+    color: cyan;
+}
+
+.photoframe-calendar-holiday-others {
+    color: darkred;
+}
+
+.photoframe-calendar-weekday-others {
+    color: gray;
+}
+
+.photoframe-calendar-saturday-others {
+    color: darkcyan;
+}
