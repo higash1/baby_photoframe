@@ -1,6 +1,6 @@
 body,html {
     overflow: hidden;
-    background-color: #41CBE0;
+    background-color: black;
     position: relative;
     height: 100%;
 }
@@ -13,8 +13,6 @@ body,html {
     align-items: center;
     display: flex;
     max-height: 100vh;
-    background-color: #41CBE0;
-
 }
 
 .photoframe-clock {
@@ -24,34 +22,24 @@ body,html {
 
 .photoframe-clock-row1 {
     font-size: 3vw;
-    background-color: #41CBE0;
-
 }
 
 .photoframe-clock-row2 {
     /* font-size: 7vw; */
     font-size: 12vw;
-    background-color: #41CBE0;
-
 }
 
 .photoframe-logo {
     padding: 5%;
     width: 100%;
-    background-color: #41CBE0;
-
 }
 
 .table th, .table td {
     padding: 0.25rem;
-    background-color: #41CBE0;
-
 }
 
 .photoframe-calendar {
     font-size: 2vw;
-    background-color: #41CBE0;
-
 }
 
 .photoframe-calendar-ym {
