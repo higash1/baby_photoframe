@@ -52,7 +52,7 @@
 
             <div id="photoframe-clock-right" class="col-4 h-100 bg-light d-none">
                 <div class="d-flex h-100 flex-column">
-                    <img class="photoframe-logo" src="static/img/TasakiLab_Logo.svg"/>
+                    <img class="photoframe-logo" src="static/img/baby_alpha_crop.svg"/>
 
                     <div class="d-flex justify-content-center mt-auto mb-auto">
                         <table class="table text-center photoframe-calendar"></table>
