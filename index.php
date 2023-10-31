@@ -1,1 +1,1 @@
-<?php include("./info.php"); ?>
+<?php include("./index.php"); ?>
