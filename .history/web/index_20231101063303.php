@@ -1,1 +1,0 @@
-<?php include("info.php"); ?>
