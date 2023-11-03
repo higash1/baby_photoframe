@@ -191,7 +191,7 @@ $(document).ready(function () {
         centerMode: true,
         pauseOnHover: false,
         arrows: false,
-        autoplaySpeed: 10000,
+        autoplaySpeed: 3000,
     });
 });
 
